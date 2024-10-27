@@ -1,4 +1,6 @@
-import Garage.Factory;
+package com.mainapp;
+
+import garage.Factory;
 import car.*;
 public class Main {
     public static void main(String[] args) {

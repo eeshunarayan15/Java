@@ -1,4 +1,4 @@
-package Garage;
+package garage;
 
 import car.Car;
 
